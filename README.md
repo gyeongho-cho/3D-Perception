@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ## 🌟 프로젝트 개요
 ### 1️⃣ Study: BEV Representation
 - 2D 이미지 feature를 3D BEV로 projection 하는 방법에 대한 스터디
-- 3D Perception task(3D Detection, Map segmentation)에 적용하는 방법 스터디
+- 3D Perception task(3D Detection, Map Segmentation, Occupancy Prediction)에 적용하는 방법 스터디
 
 ### 2️⃣ Sharing: Blog or Youtube
 - 스터디 발표 유튜브 or 블로그로 남기기
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ### 3️⃣ Project: 2025 CVPR Challenge*
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8b305d88-1db7-4c40-aa81-dd134c8187b6" width="500">
+<img src="https://github.com/user-attachments/assets/8551b30a-b18e-44f2-aac6-ef83196ef68c" width="500">
 </div>
 
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
@@ -46,9 +46,10 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 <sub>*참여하는 챌린지는 OT에서 공개할 예정입니다.</sub>
 
-<sub>**대회 리스트에 Perception task가 없어 End-to-end task로 참가할 예정입니다.(BEV backbone을 이용한 End-to-end method)</sub>
+<sub>**대회 리스트에 Perception task가 없어 End-to-end task로 참가할 예정입니다.</sub>
 
 ---
+
 
 ## 🤗 팀 소개
 
@@ -106,7 +107,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ## 🌱 참여 안내
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 
-참가 링크 : (2/19일 공개)
+🔗 [신청 링크](https://pseudo-lab.com/19c963ffa3ee81a2bcacebc7ef2c30d7) 🔗 [계획표 링크](https://pseudo-lab.com/d16a59aa6f3847a092f8d55b89279b0a)
 
 - 🚘 **자율주행 or 컴퓨터 비전 분야에 관심이 있는 분을 찾습니다!** 🚘
 - 👨‍💻 **코딩 경험이 있다면 알려주세요!** 👨‍💻
