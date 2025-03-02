@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 <sub>**PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
 
-
+---
 
 <h2>Contributors 😃</h2>
 <a href="https://github.com/Pseudo-Lab/3D-Perception/graphs/contributors">
