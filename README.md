@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 역할          | 이름 | 주요 관심 분야                          | SNS |
 |:---------------:|:------:|:----------------------------------------:| :---: |
 | **Project Manager** | 조경호 | 자율주행/3D Vision |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gh-cho/) [![Homepage](https://img.shields.io/badge/Homepage-orange)](http://gh-cho.me) |
-| **Member** | Your name | Anything | |
+| **Member** | 차수연 | Multi-modal/Computer Vision | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyeon-cha-758372211/) [![Homepage](https://img.shields.io/badge/Homepage-orange)](https://sites.google.com/view/suyeoncha/%ED%99%88)  |
 | **Member** | Your name | Anything | |
 | **Member** | Your name | Anything | |
 | **Member** | Your name | Anything | |
@@ -77,25 +77,27 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - 시간: 월요일 21시*
 <div align="center">
 
-| 날짜 | 내용 | 발표자 |
-| :--------: | ---- | :----: |
-| 2025/03/03 | OT | 조경호 |
-| 2025/03/10 | [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703) | 조경호 |
-| 2025/03/17 | [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) | TBD |
-| 2025/03/24 | ✨Magical Week✨ |  |
-| 2025/03/31 | [BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790) | TBD |
-| 2025/04/07 | [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) | TBD |
-| 2025/04/14 | [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) | TBD |
-| 2025/04/21 | [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236) | TBD |
-| 2025/04/28 | ✨Magical Week✨ |  |
-| 2025/05/05 | [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) | TBD |
-| 2025/05/17 | 🎉Pseudo Conference🎉 |  |
-| 2025/05/19 | [GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/abs/2407.14108) | TBD |
-| 2025/05/26 |  | TBD |
-| 2025/06/02 |  | TBD |
-| 2025/06/11 | **The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???)** | TBD |
+| 날짜 | 내용 | 발표자 | 에디터 |
+| :--------: | ---- | :----: | :----: |
+| 2025/03/03 | OT | 조경호 | |
+| 2025/03/10 | [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703) | 조경호 | TBD |
+| 2025/03/17 | [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) | TBD | TBD |
+| 2025/03/24 | ✨Magical Week✨ |  | |
+| 2025/03/31 | [BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790) | TBD | TBD |
+| 2025/04/07 | [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) | TBD | TBD |
+| 2025/04/14 | [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) | TBD | TBD |
+| 2025/04/21 | [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236) | TBD | TBD |
+| 2025/04/28 | ✨Magical Week✨ |  | |
+| 2025/05/05 | [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) | TBD | TBD |
+| 2025/05/17 | 🎉Pseudo Conference🎉 |  | |
+| 2025/05/19 | [GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/abs/2407.14108) | TBD | TBD |
+| 2025/05/26 |  | TBD | TBD |
+| 2025/06/02 |  | TBD | TBD |
+| 2025/06/11 | **The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???)** | TBD | TBD |
 </div>
 <sub>*모든 구성원이 동의 한다면 시간 조정 가능합니다.</sub>
+
+
 
 <sub>**PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
 
